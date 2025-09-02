@@ -87,7 +87,7 @@ const HowItWorks = () => {
               <span className="text-white">
                 games will look and feel so immersive
               </span>
-              , with incredibly detailed environments and characters.
+              , with incredibly detailed environments and characters
             </p>
           </div>
 
