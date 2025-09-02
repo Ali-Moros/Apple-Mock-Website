@@ -43,5 +43,8 @@ npm start
 # or
 yarn start
 
-View the project:
+View the project on Vercel:
+https://vercel.com/alis-projects-844f54ed/apple-mock-website 
+
+View the project on your local Server:
 Open your web browser and navigate to http://localhost:3000.
